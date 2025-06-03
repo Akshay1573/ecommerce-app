@@ -136,8 +136,8 @@ const Checkout = () => {
                     <img src={peacelily} className="img-fluid" alt="product img" />
                   </div>
                   <div>
-                    <h5 className="title-price">dshfkj</h5>
-                    <p className="total-price">dssjkdfhks</p>
+                    <h5 className="title-price">Peace Lily, Spathiphyllum - Plant</h5>
+                    <p className="total-price">Brand :White Lily</p>
                   </div>
                 </div>
                 <div className="flex-grow-1">
