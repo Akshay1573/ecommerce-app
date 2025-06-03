@@ -11,7 +11,7 @@ import CompareProduct from "./pages/CompareProduct";
 import WishList from "./pages/WishList";
 import Login from "./pages/Login";
 import Forgotpassword from "./pages/Forgotpassword";
-import Signup from "./pages/signup";
+import Signup from "./pages/Signup";
 import Resetpassword from "./pages/Resetpassword";
 import SingleBlog from "./pages/SingleBlog";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
