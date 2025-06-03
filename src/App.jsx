@@ -9,7 +9,7 @@ import OurStore from "./pages/OurStore";
 import Blog from "./pages/Blog";
 import CompareProduct from "./pages/CompareProduct";
 import WishList from "./pages/WishList";
-import Login from "./pages/login";
+import Login from "./pages/Login";
 import Forgotpassword from "./pages/Forgotpassword";
 import Signup from "./pages/signup";
 import Resetpassword from "./pages/Resetpassword";
