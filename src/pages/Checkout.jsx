@@ -148,16 +148,16 @@ const Checkout = () => {
               <div className="border-bottom py-4">
                 <div className="d-flex justify-content-between align-items-center">
                   <p className="total">Subtotal</p>
-                  <p className="total-price">$1000</p>
+                  <p className="total-price">$100</p>
                 </div>
                 <div className="d-flex justify-content-between align-items-center">
                   <p className="mb-0 total">Shipping</p>
-                  <p className="mb-0 total-price">$1000</p>
+                  <p className="mb-0 total-price">$100</p>
                 </div>
               </div>
               <div className="d-flex justify-content-between align-items-center border-bottom py-4">
                 <h4 className="total">Total</h4>
-                <h5 className="total-price">$1000</h5>
+                <h5 className="total-price">$100</h5>
               </div>
             </div>
           </div>

@@ -32,14 +32,14 @@ const Cart = () => {
 
                 </div>
                 <div className='cart-col-2'>
-                  <h5 className="price">$100</h5>
+                  <h5 className="price">$ 100</h5>
                 </div>
                 <div className='cart-col-3 d-flex align-items-center gap-15'>
                   <div><input className='form-control' min={1} max={10} defaultValue={1} type="number"  name="" id="" /></div>
                   <div><AiFillDelete className='text-danger '/></div>
                 </div>
                 <div className='cart-col-4'>
-                  <h5 className="price">$100</h5>
+                  <h5 className="price">$ 100</h5>
                 </div>
               </div>
 
@@ -47,7 +47,7 @@ const Cart = () => {
                 <div className='d-flex justify-content-between align-items-baseline'>
                   <Link to="/product" className='button'>Continue To Shopping</Link>
                   <div className='d-flex flex-column align-items-end'>
-                    <h4>SubTotal: $100</h4>
+                    <h4>SubTotal: $ 100</h4>
                     <p>Taxes and shipping calculated at checkout</p>
                     <Link to="/checkout" className='button'>CheckOut</Link>
 
