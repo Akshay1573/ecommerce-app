@@ -25,9 +25,9 @@ const Cart = () => {
                     <img src={peacelily} className='img-fluid' alt="product img" />
                   </div>
                   <div className='w-75'>
-                    <p >sdjkf</p>
-                    <p >Size: jlkdffjas</p>
-                    <p >Color: dsfahd</p>
+                    <p >Peace Lily, Spathiphyllum - Plant</p>
+                    <p >Brand :White Lily</p>
+                    <p >Category :Plant</p>
                   </div>
 
                 </div>
